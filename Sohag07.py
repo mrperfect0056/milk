@@ -332,9 +332,9 @@ def mb():
 
 	    psb('Congratulations Sohag_Hacker Tool Has Been Updated Successfully')
 
-	    psb('🔓User Name☆ love✓')
+	    psb('🔓User Name☆ Sohag✓')
 
-	    psb('🔓Password ☆ love✓')
+	    psb('🔓Password ☆ Sohag✓')
 
 	   
 
